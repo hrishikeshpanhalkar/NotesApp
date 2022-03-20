@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:id="@+id/bottomSheet"
+    android:background="@drawable/delete_sheet"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <View
+        android:layout_width="100dp"
+        android:layout_height="7dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/delete_indicator_bg"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:fontFamily="@font/product_sans_regular"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="15dp"
+        android:text="Are you sure want to delete\n this note?"
+        android:textSize="18sp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="No"
+        android:id="@+id/noBtn"
+        android:textSize="18sp"
+        android:padding="7dp"
+        android:gravity="center"
+        android:layout_marginHorizontal="10dp"
+        android:background="@drawable/no_delete_btn"
+        android:textColor="@color/black"
+        android:layout_marginBottom="20dp"
+        android:fontFamily="@font/product_sans_regular"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Yes"
+        android:id="@+id/yesBtn"
+        android:textSize="18sp"
+        android:padding="7dp"
+        android:gravity="center"
+        android:layout_marginBottom="20dp"
+        android:layout_marginHorizontal="10dp"
+        android:background="@drawable/yes_delete_btn"
+        android:textColor="@color/black"
+        android:fontFamily="@font/product_sans_regular"/>
+</LinearLayout>

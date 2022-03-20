@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/delete_indicator_bg.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/delete_sheet.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/filter_selected_shape.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/filter_unselected_shape.xml" value="0.25" />
+        <entry key="app/src/main/res/drawable/greenshape.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_delete.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_filter.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/no_delete_btn.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/redshape.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/yellowshape.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/yes_delete_btn.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_insert_note.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_update_note.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/delete_bottom_sheet.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/notes_item.xml" value="0.33" />
+        <entry key="app/src/main/res/menu/delete_menu.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/search_notes.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
