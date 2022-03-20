@@ -12,3 +12,6 @@
 <img src="images/ss9.png" width=250 height=500>
 <img src="images/ss10.png" width=250 height=500><br>
 <b>Dark Theme:</b><br>
+<img src="images/ss11.png" width=250 height=500>
+<img src="images/ss12.png" width=250 height=500>
+<img src="images/ss13.png" width=250 height=500>
